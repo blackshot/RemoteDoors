@@ -1,0 +1,12 @@
+name: ProximityDoors
+version: 1.0-SNAPSHOT
+author: SirHectorin
+main: me.sirhectorin.simpleplugin.Main
+api-version: 1.16
+commands:
+
+  hola:
+    description: Execute example command
+    usage: /<command>
+    # permission: simpleplugin.basic
+    # permission-message: You don't have simpleplugin.basic permission
